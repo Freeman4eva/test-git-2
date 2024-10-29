@@ -1,3 +1,4 @@
+0. git remote -v
 1. git status
 2. git add [files] - add files in stage
 3. git commit -m "comment" - commit = record
